@@ -1,0 +1,3 @@
+http://127.0.0.1:8000/api/home/ http://127.0.0.1:8000/api/up http://127.0.0.1:8000/api/down/ http://127.0.0.1:8000/api/search/ http://127.0.0.1:8000/api/tedad/ http://127.0.0.1:8000/auth/api/api/auth/ ساخت user
+http://127.0.0.1:8000/api/post/ برای ساخت ایتم ایجاد محصول 
+
